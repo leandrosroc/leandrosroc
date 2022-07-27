@@ -2,8 +2,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrosroc/)
 
 <div align="center">
-  <a href="https://github.com/leandrosroc"><img height="200" src="https://github-readme-stats.vercel.app/api?username=leandrosroc&show_icons=true&theme=radical" /></a>
-  <a href="https://github.com/leandrosroc"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosroc&theme=radical" /></a>
+  <a href="https://github.com/leandrosroc"><img height="190" src="https://github-readme-stats.vercel.app/api?username=leandrosroc&show_icons=true&theme=radical" /></a>
+  <a href="https://github.com/leandrosroc"><img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosroc&theme=radical&layout=compact" /></a>
 </div>
 
 ### Tecnologias que estudo e uso no meu dia
