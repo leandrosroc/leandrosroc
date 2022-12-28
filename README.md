@@ -1,5 +1,10 @@
 ### Olá, sou o Leandro Rocha 🖐️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrosroc/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrosroc/)
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandrosroc&theme=dracula&column=7" alt="leandrosroc" /></a>
+</p>
 
 <div align="center">
   <a href="https://github.com/leandrosroc"><img height="170" src="https://github-readme-stats.vercel.app/api?username=leandrosroc&show_icons=true&theme=radical" /></a>
