@@ -41,4 +41,4 @@
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://github.com/leandrosroc)
 [![Microsoft_Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/leandrosroc)
 [![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/leandrosroc)
-![snake gif](https://github.com/leandrosroc/leandrosroc/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/leandrosroc/leandrosroc/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
