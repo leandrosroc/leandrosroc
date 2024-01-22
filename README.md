@@ -1,4 +1,4 @@
-### Olá, sou o Leandro Rocha 🖐️
+### Hello, I'm Leandro Rocha 🖐️
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrosroc/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrosroc/)
 
@@ -7,7 +7,7 @@
   <a href="https://github.com/leandrosroc"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosroc&theme=radical&layout=compact" /</a>
 </p>
   
-### Tecnologias que estudo e uso no meu dia 🚀
+### Technologies 🚀
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/leandrosroc)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/leandrosroc)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/leandrosroc)
