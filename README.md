@@ -1,13 +1,11 @@
-### Hello, I'm Leandro Rocha 🖐️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrosroc/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrosroc/)
+# Hi there 🖐️
+I'm Leandro Rocha, an enthusiastic software developer with a strong passion for technology. Currently, I serve as a Mid-Level Software Developer at Verity, bringing over 6 years of experience in the field. Throughout my career, I have actively contributed to diverse projects, cultivating valuable expertise and exploring various cutting-edge technologies.
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leandrosroc&theme=dracula&column=7" alt="leandrosroc" /></a>
-  <a href="https://github.com/leandrosroc"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosroc&theme=radical&layout=compact" /</a>
-</p>
+# Expertise 🚀
+Passionate about developing software solutions creating efficient and scalable applications. With nearly 7 years of experience in software development, I have successfully contributed to various projects, ensuring the delivery of high-quality code and optimal performance. My expertise lies in designing and implementing robust backend solutions tailored to meet the specific needs of each project.
   
-### Technologies 🚀
+# Tech Stack 💻
+
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/leandrosroc)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://github.com/leandrosroc)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/leandrosroc)
@@ -24,3 +22,8 @@
 [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://github.com/leandrosroc)
 [![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/leandrosroc)
 [![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/leandrosroc)
+
+# Socials 🌐
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandrosroc/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandrosroc/)
