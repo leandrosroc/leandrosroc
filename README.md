@@ -1,8 +1,8 @@
 # Hi there 🖐️
-I'm Leandro Rocha, an enthusiastic software developer with a strong passion for technology. Currently, I serve as a Mid-Level Software Developer at Verity, bringing over 6 years of experience in the field. Throughout my career, I have actively contributed to diverse projects, cultivating valuable expertise and exploring various cutting-edge technologies.
+Passionate about building scalable and efficient solutions, I’m a Senior Software Developer with 7+ years of hands-on experience in backend development. I’ve delivered high-performance systems for diverse business challenges.
 
 # Expertise 🚀
-Passionate about developing software solutions creating efficient and scalable applications. With nearly 7 years of experience in software development, I have successfully contributed to various projects, ensuring the delivery of high-quality code and optimal performance. My expertise lies in designing and implementing robust backend solutions tailored to meet the specific needs of each project.
+Passionate about developing software solutions creating efficient and scalable applications. With nearly 7+ years of experience in software development, I have successfully contributed to various projects, ensuring the delivery of high-quality code and optimal performance. My expertise lies in designing and implementing robust backend solutions tailored to meet the specific needs of each project.
   
 # Tech Stack 💻
 
